@@ -69,3 +69,14 @@ discordpartygames.com
 discordactivities.com
 stable.dl2.discordapp.net
 discord-attachments-uploads-prd.storage.googleapis.com
+discordapp.net
+discord-activities.com
+discordstatus.com
+cfl.re
+cloudflare-dns.com
+cloudflare-cn.com
+cloudflareanycast.net
+cloudflarechina.cn
+cf-ipfs.com
+cloudflare-ipfs.com
+cloudflareresolve.com
