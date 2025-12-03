@@ -308,7 +308,7 @@ test_configurations() {
 
     # Читаем настройки и домены в массивы сразу
     mapfile -t settings < <(grep -v '^[[:space:]]*$' settings.txt)
-    mapfile -t links < <(grep -v '^[[:space:]]*$' links.txt)
+    mapfile -t links < <(grep -v '^[[:space:]]*$' list_roblox.txt)
 
     log yellow "Загружено настроек: ${#settings[@]}"
     log yellow "Загружено доменов: ${#links[@]}"

@@ -1,0 +1,13 @@
+google.com
+mtalk.google.com
+manifests.googlevideo.com
+googleapis.com
+youtube.googleapis.com
+gmailpostmastertools.googleapis.com
+NS1.google.com
+NS2.google.com
+NS3.google.com
+NS4.google.com
+play.google.com
+gstatic.com
+googleads.g.doubleclick.net
